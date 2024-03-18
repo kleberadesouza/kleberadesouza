@@ -10,6 +10,6 @@ My name is Kleber Souza and I live in Brusque, SC. I'm an infrastructure profess
 
 ## How to Reach Me
 - 📧 Email: kleberadesouza@gmail.com
-- 💼 LinkedIn: Kleber Souza(https://www.linkedin.com/in/souzaklebersc/)
+- 💼 LinkedIn: https://www.linkedin.com/in/souzaklebersc
 
 Feel free to reach out to me to discuss collaborations, projects, or just to have a chat!
