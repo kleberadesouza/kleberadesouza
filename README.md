@@ -1,12 +1,12 @@
 # Hello there! 👋
 
-My name is [Kleber Souza] and I live in Brusque, SC. I'm an infrastructure professional with a focus on open source, and a practitioner of the DevOps culture.
+My name is Kleber Souza and I live in Brusque, SC. I'm an infrastructure professional with a focus on open source, and a practitioner of the DevOps culture.
 
 ## About Me
 - 🏢 I work as an Infrastructure Professional
 - 🌱 Currently, I'm learning more about DevOps and its practices
 - 💻 My tech stack includes: Linux, Cloud, Docker, Kubernetes, and Prometheus
-- 🎓 Graduated in [Your Degree], [Your University]
+
 
 ## How to Reach Me
 - 📧 Email: [kleberadesouza@gmail.com]
