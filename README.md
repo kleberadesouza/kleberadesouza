@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**kleberadesouza/kleberadesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is [Kleber Souza] and I live in Brusque, SC. I'm an infrastructure professional with a focus on open source, and a practitioner of the DevOps culture.
 
-Here are some ideas to get you started:
+## About Me
+- 🏢 I work as an Infrastructure Professional
+- 🌱 Currently, I'm learning more about DevOps and its practices
+- 💻 My tech stack includes: Linux, Cloud, Docker, Kubernetes, and Prometheus
+- 🎓 Graduated in [Your Degree], [Your University]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to Reach Me
+- 📧 Email: [kleberadesouza@gmail.com]
+- 💼 LinkedIn: [[Kleber Souza](https://www.linkedin.com/in/souzaklebersc/)]
+
+Feel free to reach out to me to discuss collaborations, projects, or just to have a chat!
